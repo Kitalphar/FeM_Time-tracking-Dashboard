@@ -240,7 +240,7 @@ label:focus-visible {
 
 .card-header-work {
     background-color: var(--clr-Red);
-    background-image: url(/images/icon-work.svg);
+    background-image: url(images/icon-work.svg);
     background-position: top -0.6875rem right 1rem;
 }
 .card-header-play {
@@ -250,22 +250,22 @@ label:focus-visible {
 }
 .card-header-study {
     background-color: var(--clr-Red-200);
-    background-image: url(/images/icon-study.svg);
+    background-image: url(./images/icon-study.svg);
     background-position: top -0.55rem right 1rem;
 }
 .card-header-exercise {
     background-color: var(--clr-Green-200);
-    background-image: url(/images/icon-exercise.svg);
+    background-image: url('images/icon-exercise.svg');
     background-position: top -0.1rem right 1rem;
 }
 .card-header-social {
     background-color: var(--clr-Violet);
-    background-image: url(/images/icon-social.svg);
+    background-image: url('/images/icon-social.svg');
     background-position: top -0.8rem right 1rem;
 }
 .card-header-selfcare {
     background-color: var(--clr-Orange-200);
-    background-image: url(/images/icon-self-care.svg);
+    background-image: url('./images/icon-self-care.svg');
     background-position: top -0.6875rem right 1rem;
 }
 
