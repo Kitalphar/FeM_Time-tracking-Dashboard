@@ -44,7 +44,7 @@ function createDashboard(jsonData) {
     try {
         const img = document.createElement('img');
         img.src = './images/image-jeremy.png';
-        img.alt = " ";
+        img.alt = "Profile picture of the user.";
         img.id = "user-avatar"
 
         let divider = document.createElement('div');
