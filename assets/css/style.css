@@ -227,7 +227,7 @@ label:focus-visible {
     text-indent: -9999px;
     color: var(--clr-Blue-100);
     background-color: transparent;
-    background-image: url(/images/icon-ellipsis.svg);
+    background-image: url(/FeM_Time-tracking-Dashboard/images/icon-ellipsis.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
